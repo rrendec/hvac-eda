@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "_Connector")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "_Module")(type "KiCad")(uri "${KIPRJMOD}/lib/Module.kicad_sym")(options "")(descr ""))
+  (lib (name "_Regulator_Linear")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Linear.kicad_sym")(options "")(descr ""))
+)
