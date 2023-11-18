@@ -320,6 +320,10 @@
     [
       "83e1bea0-7a97-4d9e-99b1-27f161b596a8",
       ""
+    ],
+    [
+      "9a727557-97b1-4245-b1dc-bcb8c4fa7cc1",
+      "PI_GPIO"
     ]
   ],
   "text_variables": {}
