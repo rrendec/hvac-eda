@@ -1026,7 +1026,7 @@
   (symbol (lib_id "power:Earth") (at 173.99 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2919d297-7276-43b7-9bbb-bb16df06f872)
-    (property "Reference" "#PWR?" (at 173.99 59.69 0)
+    (property "Reference" "#PWR0108" (at 173.99 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 173.99 57.15 0)
@@ -1042,7 +1042,7 @@
     (instances
       (project "hvac-ctrl"
         (path "/83e1bea0-7a97-4d9e-99b1-27f161b596a8"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0108") (unit 1)
         )
       )
     )
@@ -1431,7 +1431,7 @@
   (symbol (lib_id "power:Earth") (at 146.05 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d4443056-b72e-4b3b-b1a6-ce57c160faf3)
-    (property "Reference" "#PWR?" (at 146.05 59.69 0)
+    (property "Reference" "#PWR0109" (at 146.05 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "Earth" (at 146.05 57.15 0)
@@ -1447,7 +1447,7 @@
     (instances
       (project "hvac-ctrl"
         (path "/83e1bea0-7a97-4d9e-99b1-27f161b596a8"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0109") (unit 1)
         )
       )
     )
